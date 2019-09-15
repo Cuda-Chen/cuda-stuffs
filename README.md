@@ -1,2 +1,2 @@
-# cuda-stuffs
+# CUDA Stuffs
 some cuda stuffs archive
